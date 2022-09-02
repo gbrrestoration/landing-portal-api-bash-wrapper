@@ -1,0 +1,11 @@
+# ChangeStateStatus
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**stateUnderscorechange** | [**Status**](Status.md) |  | [default to null]
+**emailUnderscorealert** | [**Status**](Status.md) |  | [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
